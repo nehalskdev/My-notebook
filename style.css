@@ -84,6 +84,20 @@ footer {
   position: fixed;
   bottom: 0;
   right: 0;
+  font-weight: bold;
+}
+a {
+  background-color: d3d3d2;
+  position: fixed;
+  right: 10%;
+  top: 50%;
+  font-weight: bold;
+  font-size: larger;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
 }
 @keyframes slide {
   0% {
